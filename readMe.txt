@@ -1,5 +1,5 @@
 Gerai 13 (Version 1.14)
-
+Created by Izhan, Hariz, Aizad and Auni from UiTM Jasin on Semester 2 for Group Project
 1. Create database gerai_13 -> buat table baru nama user
 - id buat auto increment
 - username varchar 100
